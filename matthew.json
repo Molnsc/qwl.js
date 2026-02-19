@@ -1,8 +1,14 @@
-[
-    {
-        "license": "0x5hJJ1ATTQ"
-    },
-    {
-        "license": "5xGH10QBLKKH17M"
-    }
-]
+{
+  "NYLON-0VH3K-OMPA-11": {
+    "active": true,
+    "tier": "premium"
+  },
+  "NYLON-0BBLN19-O66OZX": {
+    "active": true,
+    "tier": "premium"
+  },
+  "NYLON-RA038-HMPOV7-923AAC": {
+    "active": false,
+    "tier": "premium"
+  }
+}
